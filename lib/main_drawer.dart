@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_startupapp/main1.dart';
 import 'login.dart';
-import 'page2.dart';
 import 'main.dart';
+import 'main3.dart';
 import 'main1.dart';
 import 'faq.dart';
 
